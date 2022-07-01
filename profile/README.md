@@ -1,14 +1,5 @@
-## Hi there 👋
+## Hi 👋
 
-Welcome on GoLearn !
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ Welcome to the GoLearn Git, how about an introduction? GoLearn is a website that allows anyone who wants to learn web programming to access module-based courses. 
+🌈 Contribution Guidelines - For the time being, the courses that will be present on the site will be created and maintained by the internal team. In a future update, anyone will be able to submit their own course on their preferred language.
+🧙 This project came into the world by the keystrokes of 4 programmers, 3 having tried the 42 school and one person still not old enough to drink alcohol in some countries (😂).
