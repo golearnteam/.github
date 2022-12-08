@@ -1,9 +1,5 @@
 # Golearn 🦑
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/750386052555866243/1050348067800498176/image.png" />
-</p>
-
 Welcome to Golearn, the online learning platform where you can **master programming languages and computer technology** 💻. Created by a team of enthusiasts from the 42 school in Paris 🇫🇷, our platform is designed to make learning fun and accessible for anyone, regardless of their background or experience 💡.
 
 With Golearn, you can explore a wide range of courses 📚, from beginner-level introductions to advanced topics in programming, data science, and more 📈. Our courses are interactive and engaging, with a focus on hands-on learning and practical applications 🛠️.
