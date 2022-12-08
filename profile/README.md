@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68253359/176951554-6801478d-84ee-4106-aab3-1096b0bb1b16.png" />
+  <img src="https://media.discordapp.net/attachments/750386052555866243/1050348067800498176/image.png" />
 </p>
 
 
-#### 🙋‍♀️ - Welcome to the GoLearn Git, how about an introduction? GoLearn is a website that allows anyone who wants to learn web programming to access module-based courses. 
+# Golearn 🦑
 
-#### 🌈 - Contribution Guidelines - For the time being, the courses that will be present on the site will be created and maintained by the internal team. In a future update, anyone will be able to submit their own course on their preferred language.
+<center>
+Welcome to Golearn, the online learning platform where you can **master programming languages and computer technology** 💻. Created by a team of enthusiasts from the 42 school in Paris 🇫🇷, our platform is designed to make learning fun and accessible for anyone, regardless of their background or experience 💡.
 
-#### 🧙 - This project came into the world by the keystrokes of 4 programmers, 3 having tried the 42 school and one person still not old enough to drink alcohol in some countries (😂).
+With Golearn, you can explore a wide range of courses 📚, from beginner-level introductions to advanced topics in programming, data science, and more 📈. Our courses are interactive and engaging, with a focus on hands-on learning and practical applications 🛠️.
+
+But learning with Golearn is more than just taking courses. It's about **connecting with other learners** 👥 and sharing your experiences and knowledge 💬. That's why we also offer a community forum where you can connect with like-minded individuals and learn from each other.
+
+At Golearn, we're constantly working to **improve our platform** 🛠️ and add new features and content 📝. If you have any suggestions or feedback, please don't hesitate to let us know. We hope that you enjoy using Golearn and that it helps you to achieve your learning goals 💪.
+</center>
